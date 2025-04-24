@@ -11,10 +11,4 @@ A modern, responsive, and highly customizable landing page built using **React**
 - 🔌 Easy to integrate or extend
 
 ## 📁 Project Structure
-
-template-three-react/
-├── public/ 
-    ├── src/ │
-       ├── Components/ # All React components (Header, Footer, Landing, etc.) │ 
-    ├── data/ # Static data files (e.g., links, stats) │ 
-    ├── App.js │ └── index.js └── README.md
+template-three-react/ ├── public/ ├── src/ │ ├── Components/ # All React components (Header, Footer, Landing, etc.) │ ├── data/ # Static data files (e.g., links, stats) │ ├── App.js │ └── index.js └── README.md
