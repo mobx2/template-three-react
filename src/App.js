@@ -15,7 +15,7 @@ import WorkSteps from "./Components/WorkSteps";
 import Events from "./Components/Events";
 import Pricing from "./Components/Pricing";
 import Video from "./Components/Videos";
-import Stats from "./data/stats";
+import Stats from "./Components/Stats";
 import Discount from "./Components/Discount";
 import Footer from "./Components/Footer";
 
